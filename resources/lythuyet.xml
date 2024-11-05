@@ -1,0 +1,6 @@
+
+<!--Page Object: Textbox/ Dropdown/ Link/...-->
+<!--PageUI: Locator của các object kia-->
+
+<!--Folder: Chứa các external file (.xls/ log/ xml/ properties/..)-->
+<!--Source folder: chứa các interal file (.java)-->
